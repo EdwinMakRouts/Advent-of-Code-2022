@@ -23,7 +23,6 @@ for i in f:
             elif j == z:
                 sum += aux + 27
             aux+=1
-f.close()
 
 print ("Answer: " + str(sum))
 """Answer: 7826"""
