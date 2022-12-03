@@ -65,3 +65,4 @@ for j in comonLetters:
             aux+=1
 
 print ("Answer2: " + str(sum))
+"""Answer2: 2577"""
